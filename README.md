@@ -1,0 +1,1 @@
+This is a sample website project used to interactively learn HTML and CSS from _*Learn Enough HTML, CSS and Layout to Be Dangerous*_ book.
